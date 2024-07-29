@@ -1,7 +1,7 @@
 <?php
 
 $host = 'localhost';
-$dbName = 'api';
+$dbName = 'to-do-list';
 $port = 3306;
 $user = 'root';
 $password = 'root';
